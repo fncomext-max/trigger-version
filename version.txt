@@ -1,3 +1,3 @@
-software = update
+software = down
 version = 1.0.0
 developer mode = off
