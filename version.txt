@@ -1,0 +1,3 @@
+software = working
+version = 1.0.0
+developer mode = off
